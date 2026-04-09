@@ -1,0 +1,13 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "A balanced Binary Search Tree implementation in JS",
+  "main": "src/driver.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/driver.js"
+  },
+  "keywords": ["bst", "data-structures"],
+  "author": "",
+  "license": "ISC"
+}
